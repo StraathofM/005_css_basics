@@ -1,0 +1,42 @@
+body{
+    background-color: #ffffe6;
+    font-size: 19px;
+}
+.head-border{
+    border-style: solid;
+    border-color: rgb(4, 77, 4);
+    padding: 20px;
+    background-color: rgb(139, 160, 129);
+}
+nav{
+    font-style: italic;
+}
+h1{
+    font-family: 'Newsreader', serif;
+    color: rgb(27, 56, 27);
+}
+h2, h3{
+    font-family: 'Newsreader', serif;
+    font-weight: bold;
+    color: maroon;
+}
+li{
+    list-style: square;
+}
+p, figcaption, li{
+    font-family: 'Newsreader', serif;
+}
+figcaption{
+    color: rgb(68, 29, 29);
+}
+img{
+    border: solid;
+    border-width: 1px;
+    border-color: maroon;
+}
+main{
+    padding: 10px;
+}
+footer{
+    font-family: 'Newsreader', serif;
+}
